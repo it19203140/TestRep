@@ -15,7 +15,7 @@
         android:background="#66F600"
         android:backgroundTint="#57366CF4"
         android:foregroundTint="#000000"
-        android:text="Test push"
+        android:text="IT works"
         android:textColor="@android:color/black"
         android:textColorHighlight="@android:color/darker_gray"
         android:textColorHint="@android:color/holo_blue_dark"
